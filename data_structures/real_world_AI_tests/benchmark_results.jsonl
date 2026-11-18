@@ -1,0 +1,4 @@
+{"id": "case_1", "model": "gpt-4",    "score": 0.92, "passed": true}
+{"id": "case_2", "model": "claude-3", "score": 0.55, "passed": false}
+{"id": "case_3", "model": "gpt-4",    "score": 0.87, "passed": true}
+{"id": "case_4", "model": "claude-3", "score": 0.40, "passed": false}

@@ -1,0 +1,3 @@
+{"id": "q1", "prompt": "What is ML?", "expected": "Machine Learning"}
+{"id": "q2", "prompt": "What is AI?", "expected": "Artificial Intelligence"}
+{"id": "q3", "prompt": "What is NLP?", "expected": "Natural Language Processing"}
